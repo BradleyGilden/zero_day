@@ -1,4 +1,4 @@
-In this project I have created a reposity called **zero_day*** on [Github](https://github.com/)
+# In this project I have created a reposity called **zero_day** on [Github](https://github.com/)
 
 Project Task 0:
 -Create repository and add a README.md file
